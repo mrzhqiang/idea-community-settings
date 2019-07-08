@@ -1,0 +1,8 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Factory Class.java" reformat="true" live-template-enabled="true" />
+      <template name="JavaFXApplication.java" reformat="true" live-template-enabled="true" enabled="true" />
+    </default_templates>
+  </component>
+</application>
