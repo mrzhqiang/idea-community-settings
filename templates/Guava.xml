@@ -1,0 +1,8 @@
+<templateSet group="Guava">
+  <template name="gcnn" value="Preconditions.checkNotNull($TARGET$, &quot;$TARGET$ == null&quot;);" description="Check not null with Guava" toReformat="false" toShortenFQNames="true">
+    <variable name="TARGET" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
