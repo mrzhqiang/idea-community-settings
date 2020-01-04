@@ -22,9 +22,13 @@
           <option name="url" value="https://github.com/gluonhq/scenebuilder.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:mrzhqiang/randall-dbserver.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\1mrzhqiang" />
+    <option name="cloneParentDir" value="E:\github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
