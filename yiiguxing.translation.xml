@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Active" />
+      <item value="FORM" />
+      <item value="Tick" />
+      <item value="Loop" />
+      <item value="Teledata" />
       <item value="minor" />
       <item value="major" />
       <item value="ReallocMem reallocates a memory block." />
@@ -9,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
