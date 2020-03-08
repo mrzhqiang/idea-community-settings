@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Suspended" />
+      <item value="Speed" />
+      <item value="ReallocMem reallocates a memory block." />
       <item value="MATRIXCARD" />
       <item value="BLOCK" />
       <item value="Kick" />
@@ -14,14 +17,13 @@
       <item value="Teledata" />
       <item value="minor" />
       <item value="major" />
-      <item value="ReallocMem reallocates a memory block." />
       <item value="FileExists returns a boolean value that indicates whether the specified file exists." />
       <item value="it can remove here?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
