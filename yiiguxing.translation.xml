@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ARCHER" />
+      <item value="PLAYOBJECT" />
+      <item value="GUARD" />
       <item value="Item" />
       <item value="Rate" />
       <item value="Power Rate" />
@@ -13,9 +16,6 @@
       <item value="面对" />
       <item value="对面" />
       <item value="面对面" />
-      <item value="PLAYOBJECT" />
-      <item value="GUARD" />
-      <item value="ARCHER" />
       <item value="MONSTER" />
       <item value="PEACENPC" />
       <item value="Race" />
@@ -51,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
