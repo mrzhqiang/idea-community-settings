@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Charm" />
+      <item value="Around" />
+      <item value="Train" />
       <item value="ARCHER" />
       <item value="PLAYOBJECT" />
       <item value="GUARD" />
@@ -51,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
