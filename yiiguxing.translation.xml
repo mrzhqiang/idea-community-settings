@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="配置器" />
       <item value="Function to be called, IEnCodeString, was eliminated by linker" />
       <item value="Suspended" />
       <item value="Speed" />
@@ -24,7 +25,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
