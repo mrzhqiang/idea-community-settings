@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Owner" />
       <item value="spell" />
       <item value="speller" />
       <item value="spelle" />
@@ -50,12 +51,11 @@
       <item value="Fun" />
       <item value="面对" />
       <item value="对面" />
-      <item value="面对面" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="3" />
       </map>
