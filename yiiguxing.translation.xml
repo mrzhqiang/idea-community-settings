@@ -1,8 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="FIREWIND" />
+      <item value="Thrusting" />
+      <item value="MISSION" />
+      <item value="MISSIONVAR" />
+      <item value="Guage" />
+      <item value="inherited" />
+      <item value="Struck" />
+      <item value="Change Map" />
       <item value="Spell" />
+      <item value="Hit" />
+      <item value="Pushed" />
+      <item value="Walk" />
+      <item value="Paraly" />
+      <item value="Time" />
+      <item value="Horse" />
+      <item value="Death" />
+      <item value="Dare" />
+      <item value="Close" />
+      <item value="None" />
+      <item value="FIREWIND" />
       <item value="Charm" />
       <item value="Around" />
       <item value="Train" />
@@ -24,9 +41,6 @@
       <item value="MONSTER" />
       <item value="PEACENPC" />
       <item value="Race" />
-      <item value="Dare" />
-      <item value="Close" />
-      <item value="None" />
       <item value="Attack" />
       <item value="Proper" />
       <item value="Stick" />
@@ -37,27 +51,13 @@
       <item value="Function to be called, IEnCodeString, was eliminated by linker" />
       <item value="Suspended" />
       <item value="Speed" />
-      <item value="ReallocMem reallocates a memory block." />
-      <item value="MATRIXCARD" />
-      <item value="BLOCK" />
-      <item value="Kick" />
-      <item value="Kick Off" />
-      <item value="Arrest" />
-      <item value="Releases memory allocated for a dynamic variable." />
-      <item value="Active" />
-      <item value="FORM" />
-      <item value="Tick" />
-      <item value="Loop" />
-      <item value="Teledata" />
-      <item value="minor" />
-      <item value="major" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="FRENCH" value="1" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="3" />
       </map>
     </option>
   </component>
