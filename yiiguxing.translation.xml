@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FIRE" />
+      <item value="WIDE" />
+      <item value="HEAVY" />
       <item value="Thrusting" />
       <item value="MISSION" />
       <item value="MISSIONVAR" />
@@ -48,14 +51,11 @@
       <item value="Comments" />
       <item value="Trademarks" />
       <item value="配置器" />
-      <item value="Function to be called, IEnCodeString, was eliminated by linker" />
-      <item value="Suspended" />
-      <item value="Speed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="3" />
       </map>
