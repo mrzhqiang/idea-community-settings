@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="甜心" />
+      <item value="亲爱" />
+      <item value="亲爱的" />
+      <item value="小甜心" />
+      <item value="honey" />
       <item value="Face" />
       <item value="Droped" />
       <item value="Whisper" />
@@ -46,16 +51,11 @@
       <item value="Charm" />
       <item value="Around" />
       <item value="Train" />
-      <item value="ARCHER" />
-      <item value="PLAYOBJECT" />
-      <item value="GUARD" />
-      <item value="Item" />
-      <item value="Rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="85" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="3" />
       </map>
