@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不重复" />
       <item value="中等" />
       <item value="Generic" />
       <item value="Solution" />
@@ -50,7 +51,6 @@
       <item value="Walk" />
       <item value="Paraly" />
       <item value="Time" />
-      <item value="Horse" />
     </histories>
     <option name="languageScores">
       <map>
