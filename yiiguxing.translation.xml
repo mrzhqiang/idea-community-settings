@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="中等" />
       <item value="Generic" />
       <item value="Solution" />
       <item value="算法" />
@@ -50,12 +51,11 @@
       <item value="Paraly" />
       <item value="Time" />
       <item value="Horse" />
-      <item value="Death" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="3" />
       </map>
